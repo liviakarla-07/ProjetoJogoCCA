@@ -32,7 +32,7 @@
 - <p>O jogador poderá se movimentar utilizando as teclas de seta, a direção da seta corresponde com a movimentação que a nave irá realizar.</p>
 - <p>Inimigos irão aparecer constantemente na tela, utilize a tecla [TECLA] para disparar nos alvos, lembre-se, caso algum alienígena entre em contato com você, sua nave será destruída e você irá perder uma vida.</p>
 - <p>Se perder todas as vidas o jogo será encerrado!</p>
-- <p>Algumas /Italic/Vantagens/Italic/ vão aparecer na tela, passe por cima deles para coletar, as mesmas podem te ajudar durante o jogo.</p>
+- <p>Algumas <i>Vantagens</i> vão aparecer na tela, passe por cima deles para coletar, as mesmas podem te ajudar durante o jogo.</p>
 - <p>O jogo irá continuar até você sair ou perder todas as suas vidas.</p>
 - <p>Divirta-se!</p>
 
