@@ -29,11 +29,18 @@
 <h2>🔎Regras do jogo asteroide📖</h2>
 
 - <p>O jogador irá entrar em controle de uma aeronave no ambiente de uma galáxia que está sendo invadida por uma grande quantidade de alienígenas, com isso o jogador precisa proteger essa galáxia!</p>
+- <p>Aperte em iniciar para que o jogo comece!</p>
 - <p>O jogador poderá se movimentar utilizando as teclas de seta, a direção da seta corresponde com a movimentação que a nave irá realizar.</p>
 - <p>Inimigos irão aparecer constantemente na tela, utilize a tecla [F] para disparar nos alvos, lembre-se, caso algum alienígena entre em contato com você, sua nave será destruída e você irá perder uma vida.</p>
-- <p>Se perder todas as vidas o jogo será encerrado!</p>
-- <p>Algumas <i>Vantagens</i> vão aparecer na tela, passe por cima deles para coletar, as mesmas podem te ajudar durante o jogo.</p>
+- <p>Aperte a tecla [P] para pausar o game! Com isso o menu irá aparecer com as opções!</p>
+- <p>Corações irão aparecer na tela, colete os mesmos para obter mais vidas, se perder todas as vidas o jogo será encerrado!💀</p>
+- <p>Sua munição irá acabar uma hora, sendo assim, pacotes de munição vão surgir na tela, voe até elas e com isso consiga mais disparos!</p>
 - <p>O jogo irá continuar até você sair ou perder todas as suas vidas.</p>
 - <p>Divirta-se!</p>
 
 ----------
+
+<h2>🕹Link para acesso do vídeo🎮</h2>
+
+- <p>Upload do vídeo feito no google Drive</p>
+- <p>https://drive.google.com/file/d/11VCe_TfWi48_mJI7XKIsuigknoWulBHx/view?usp=sharing</p>
